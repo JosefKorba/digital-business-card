@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.hero {
+  width: 317px;
+  background-color: #1a1b21;
+  overflow: hidden;
+  border-radius: 10px;
+}
