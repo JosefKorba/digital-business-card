@@ -6,7 +6,8 @@ Small digital business card. Build by React and Tailwind.
 
 This project was built using the following technologies:  
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite)](https://skillicons.dev)  
 
 - **React**
-- **Tailwind** 
+- **Tailwind**
+- **Vite** 
