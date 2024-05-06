@@ -1,3 +1,3 @@
 # Digital Business Card 
 
-Small digital business card. Build by React and Vite.
+Small digital business card. Build by React and Tailwind.
